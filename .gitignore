@@ -98,3 +98,11 @@ jspm_packages
 
 # Output of 'npm pack'
 *.tgz
+.idea/encodings.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/shorten_link.iml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+.idea/webResources.xml
